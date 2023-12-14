@@ -1,5 +1,7 @@
 AUTHOR: https://www.unknowncheats.me/forum/counter-strike-2-a/611707-updated-cs2-cheat.html
 
+Status of update: Updated 12.14.2023
+
 The author has not updated the software since November 19th.
 
 Its a simple external hack for Counter Strike 2
